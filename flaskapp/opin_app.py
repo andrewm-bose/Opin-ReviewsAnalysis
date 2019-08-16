@@ -7,8 +7,6 @@ nlp = spacy.load("en_core_web_sm")
 from flask import Flask, render_template
 app = Flask(__name__)
 
-# access here: http://54.162.134.255:8080/
-
 #LOAD Sample Products
 with open('/home/ubuntu/Opin-private/data/300sample_products_metadata.pkl', mode='rb') as f:
     sample_products = pickle.load(f)
@@ -139,7 +137,6 @@ def filter_reviews(product_id, category, words_str,):
     html = '<center><h2>Topic</h2><b>'+category+'</b><h3>Search Terms</h3><b>'+words_str+ \
             '</b></body></center><br>' + table
     return html
-
 
 if __name__ == '__main__':
     #insert while loop to handle 'OSError: [Errno 48] Address already in use'
