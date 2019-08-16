@@ -1,0 +1,17 @@
+td.halfnhalf {
+  position: relative;
+  background: blue;
+}
+td.halfnhalf > span{
+   position:relative;
+}
+
+td.halfnhalf:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  right: 90%;
+  bottom: 0;
+  background: black;
+}
