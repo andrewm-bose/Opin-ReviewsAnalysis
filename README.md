@@ -12,3 +12,5 @@
 > flaskapp.opin_app.py - runs a basic website to demonstrate the functionality of the model.
 
 ## This readme is also still under construction. Everything will be more thoroughly explained in the coming weeks.
+
+### Thanks for visiting!
