@@ -22,7 +22,13 @@ This is an attempt at replicating the amazon reviews key-word filtering buttons,
 > main_single_run.ipynb/py - main program, performs topic modelling and sentiment analysis on a random product from the data set. Output ~15 topics with the customers' sentiment counts for the key words in that cluster.
 > flaskapp/opin_app.py - runs a basic demo website to demonstrate the functionality of the model.
 
+
 ## EDA/insights
+
+
+## Examples
+
+
 
 ## Methodology
 An initial dataset of 3.2M Amazon Electronics category customer reviews is tokenized using nltk and gensim: https://s3.amazonaws.com/amazon-reviews-pds/readme.html
@@ -45,8 +51,14 @@ At the end of all that, you have your filter buttons, now filtering not but just
 Other methods were considered, including LDA and Kmeans cluster of words into topics, but this model ended up being simpler, faster, and more consistent.
 
 ## Future improvements:
-
-
+* product level topic modeling - can you find competitor products with better sentiment about the topic you care about?
+* product description fact extraction - can you prioritize topics that talk about product details?
+* coreference resolution (‘it’ died -> ‘battery’ died)
+** The corpus has 3,081,927 "it"/"it's"/"its" 's! That's a lot of potential context that could given much more thorough results!
+* webscraping mechanism to apply it to live amazon reviews/other online marketplaces
+* sub-word semantic meaning (maybe with BERT)
+* robustly sentiment classifier (maybe with BERT)
+* I also ran into memory issues with large pandas DataFrames (10M+ rows) when I exploded the reviews for all products into sentences. Both spaCy and gensim have parsing mechanisms that let you process a corpus without holding the whole thing in memory. I'd like to impliment this to handle larger data sets, and also make the code that runs on an individual product run faster.
 
 ## This readme is also still under construction. Everything will be more thoroughly explained in the coming weeks.
 
