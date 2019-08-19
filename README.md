@@ -1,4 +1,4 @@
-![spaCy](https://img.shields.io/badge/with-spacy-blue)
+![spaCy](https://img.shields.io/badge/-spacy-blue)
 ![spaCy](https://img.shields.io/badge/with-spacy-blue)
 
 # Opin - Amazon reviews filtering by Topics & Sentiment
