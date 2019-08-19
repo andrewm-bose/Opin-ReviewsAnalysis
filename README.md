@@ -48,7 +48,11 @@ I threw together a basic flask app to demonstrate the functionality. It's a litt
 ### Behind the Scenes
 <img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.11.18%20PM.png">
 
+> Raw outputs of a random sample product 110 keywords extracted from reviews, condensed into 14 topics (clusters). Sentiment for each topic is generated from number of positive and negative mentions for each word in the topic.
+
 <img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.09.13%20PM.png">
+
+> network graph of clusters for a random product. Maybe an mpg3 player?
 
 ## Performace
 
@@ -57,6 +61,8 @@ This is overall a very unsupervised machine learning task, however I developed s
 * **review coverage** - defined as the proporition of reviews for a given product you'll see *at least once* by clicking through the topic buttons.
 
 <img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.10.21%20PM.png">
+
+> Analytics for 1000 randomly selected products from the corpus.
 
 
 ## Methodology
