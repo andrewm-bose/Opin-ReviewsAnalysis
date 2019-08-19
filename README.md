@@ -36,13 +36,13 @@ My model is an attempt at addressing these issues. My model generate key word fi
 
 I threw together a basic flask app to demonstrate the functionality. It's a little rough around the edges but you can see potential of the concept.
 
-https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.17%20PM.png
+![amazon review buttons](https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.17%20PM.png)
 
-https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.33%20PM.png
+![amazon review buttons](https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.33%20PM.png)
 
-https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.54%20PM.png
+![amazon review buttons](https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.54%20PM.png)
 
-https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.11.18%20PM.png
+![amazon review buttons](https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.11.18%20PM.png)
 
 ## Performace
 
@@ -50,7 +50,7 @@ This is overall a very unsupervised machine learning task, however I developed s
 * **star rating prediction** - using the proportion of positive to negative mentions of all keywords in the generated topics, the model seems to do a pretty good job at estimating the actual star rating of the product.
 * **review coverage** - defined as the proporition of reviews for a given product you'll see *at least once* by clicking through the topic buttons.
 
-https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.10.21%20PM.png
+![amazon review buttons](https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.10.21%20PM.png)
 
 
 ## Methodology
