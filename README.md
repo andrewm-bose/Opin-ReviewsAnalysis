@@ -2,11 +2,7 @@
 [![spaCy](https://img.shields.io/badge/-spaCy-blue)](https://spacy.io)
 [![gensim](https://img.shields.io/badge/gensim-Word2Vec-blue)](https://radimrehurek.com/gensim/)
 [![nltk](https://img.shields.io/badge/-nltk-orange)](https://www.nltk.org)
-
-
 [![vaderSentiment](https://img.shields.io/badge/-vaderSentiment-24292E)](https://github.com/cjhutto/vaderSentiment)
-
-
 [![flask](https://img.shields.io/badge/-flask-363B3D)](https://palletsprojects.com/p/flask/)
 
 
