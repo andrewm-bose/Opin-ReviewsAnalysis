@@ -2,7 +2,7 @@
 
 ## This is an attempt at replicating the amazon reviews key-word filtering buttons, using sentiment analysis and topic modeling techniques.
 
-(https://huggingface.co/coref/assets/thumbnail-large.png)](https://huggingface.co/coref/)
+[![NeuralCoref online Demo](https://huggingface.co/coref/assets/thumbnail-large.png)](https://huggingface.co/coref/)
 
 ### Main libraries used - pandas, spacy, gensim, nltk, matplotlib, seaborn
 
