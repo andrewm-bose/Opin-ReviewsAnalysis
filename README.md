@@ -99,3 +99,5 @@ I considered some other methods before I settled on the above, including LDA and
 
 ### Thanks for visiting!
 
+> Opin (the name of my project) is short for 'opine', the verb form of 'opinion'
+
