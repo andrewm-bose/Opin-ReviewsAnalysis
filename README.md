@@ -85,3 +85,4 @@ Other methods were considered, including LDA and Kmeans cluster of words into to
 ## This readme is also still under construction. Everything will be more thoroughly explained in the coming weeks.
 
 ### Thanks for visiting!
+
