@@ -37,9 +37,9 @@ I threw together a basic flask app to demonstrate the functionality. It's a litt
 
 <img align="center" width="160" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.17%20PM.png">
 
-<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.33%20PM.png">
+<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.14.39%20PM.png">
 
-<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.12.54%20PM.png">
+<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.14.56%20PM.png">
 
 <img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.11.18%20PM.png">
 
