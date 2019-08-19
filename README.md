@@ -90,6 +90,7 @@ Other methods were considered, including LDA and Kmeans cluster of words into to
 * **product description fact extraction** - can you prioritize topics that talk about product details?
 * **coreference resolution** (eg. ‘it’ died -> ‘battery’ died)
 ** The corpus has 3,081,927 "it"/"it's"/"its" 's! That's a lot of potential context that could given much more thorough results!
+* **filtering features** - the demo website should definitely have at least one more filtering feature - the ability to deselect keywords in a topic you don't want to see. Maybe even manually type in one you do want to see too!
 * **webscraping mechanism** to apply it to live amazon reviews/other online marketplaces
 * **sub-word semantic meaning** (maybe with BERT)
 * **robustly-trained sentiment classifier** (maybe with BERT)
