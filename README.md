@@ -11,7 +11,7 @@ I attempted at replicating the amazon reviews key-word filtering buttons, using 
 
 #### This is a demo project and not a fulling functioning package.
 
-<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.11.13%20PM.png">
+<center><img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.11.13%20PM.png"></center>
 
 ## The Goal
 
@@ -84,7 +84,6 @@ Other methods were considered, including LDA and Kmeans cluster of words into to
 * **robustly-trained sentiment classifier** (maybe with BERT)
 * **gensim/spaCy Pipelines** - I also ran into memory issues with large pandas DataFrames (10M+ rows) when I exploded the reviews for all products into sentences. Both spaCy and gensim have pipeline mechanisms that let you process a corpus without holding the whole thing in memory. I'd like to impliment this to handle larger data sets, and also make the code that runs on an individual product run faster.
 
-## This readme is also still under construction. Everything will be more thoroughly explained in the coming weeks.
 
 ### Thanks for visiting!
 
