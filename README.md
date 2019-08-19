@@ -1,5 +1,9 @@
+[![spaCy](https://img.shields.io/badge/-spaCy-blue)](https://spacy.io)
+[![spaCy](https://img.shields.io/badge/gensim-Word2Vec-blue)](https://radimrehurek.com/gensim/)
+[![spaCy](https://img.shields.io/badge/-nltk-orange)](https://www.nltk.org)
+[![spaCy](https://img.shields.io/badge/-vader-24292E)](https://github.com/cjhutto/vaderSentiment)
 [![spaCy](https://img.shields.io/badge/-spacy-blue)](https://spacy.io)
-![spaCy](https://img.shields.io/badge/with-spacy-blue)
+[![spaCy](https://img.shields.io/badge/-spacy-blue)](https://spacy.io)
 
 # Opin - Amazon reviews filtering by Topics & Sentiment
 
