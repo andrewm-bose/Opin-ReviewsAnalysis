@@ -1,7 +1,10 @@
+https://img.shields.io/badge/with-spacy-blue https://img.shields.io/badge/with-spacy-blue
+
 # Opin - Amazon reviews filtering by Topics & Sentiment
 
-## This is an attempt at replicating the amazon reviews key-word filtering buttons, using sentiment analysis and topic modeling techniques with word embeddings.
+### This is an attempt at replicating the amazon reviews key-word filtering buttons, using sentiment analysis and topic modeling techniques with word embeddings.
 
+<INSERT EXAMPLE AMAZON REVIEW BUTTONS>
 [![Example Amazon review buttons](https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/flaskapp/imgs/Bose_Home_Speaker_500_Black_1.jpg)
 
 ### Main libraries used - pandas, spacy, gensim, nltk, matplotlib, seaborn
