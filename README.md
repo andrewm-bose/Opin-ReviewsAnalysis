@@ -46,11 +46,11 @@ I threw together a basic flask app to demonstrate the functionality. It's a litt
 <img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.48.02%20PM.png">
 
 ### Behind the Scenes
-<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/Screen%20Shot%202019-08-19%20at%204.11.18%20PM.png">
+<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/under%20the%20hood.png">
 
 > Raw outputs of a random sample product: 110 keywords extracted from reviews, condensed into 14 topics (clusters). Sentiment for each topic is generated from the number of positive and negative mentions (not just review counts) for each word in the topic.
 
-<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/blob/master/readme_imgs/under%20the%20hood.png">
+<img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/raw/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.09.32%20PM.png">
 
 > networkx graph of topics for a random product. Maybe an mpg3 player?
 
