@@ -52,9 +52,9 @@ I threw together a basic flask app to demonstrate the functionality. It's a litt
 
 <img align="center" src="https://github.com/andrewm-bose/Opin-ReviewsAnalysis/raw/master/readme_imgs/Screen%20Shot%202019-08-19%20at%205.09.32%20PM.png">
 
-> networkx graph of topics for a random product. Maybe an mpg3 player?
+> networkx graph of topics for a product selected at random (mp3 player)
 
-## Performace
+## Performance
 
 This is overall a very unsupervised machine learning task, however I developed some metrics to generally gauge how the model performs overall:
 * **star rating prediction** - using the proportion of positive to negative mentions of all keywords in the generated topics, the model seems to do a pretty good job at estimating the actual star rating of the product.
